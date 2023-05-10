@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ftc7qaufy3j7aao5/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-events-state-portfolio/branch/main)
